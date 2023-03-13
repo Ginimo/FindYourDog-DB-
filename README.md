@@ -1,4 +1,4 @@
-# find_your_dog
+# Find your dog
 
 ## SUMMARY
 
