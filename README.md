@@ -11,7 +11,7 @@ This project was conducted by Daniel Podolecki.
 
 ## DATA
 
-The data is extracted from two different APIs the Dog API and the Dog Breed API. For that you will need to configure your own API Keys.
+The data is extracted from two different APIs the Dog API and the Dog Breed API. For that you will need to configure your own API Keys. Additionally there are 2 flat files (CSV) which are extracted from a Open Data Platform.
 
 ## USAGE 
 
