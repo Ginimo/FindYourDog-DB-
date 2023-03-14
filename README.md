@@ -18,4 +18,4 @@ The data is extracted from two different APIs the Dog API and the Dog Breed API.
 To run this project a Mongo DB has to be configured and the connection setup in the chapter 3 Requirements & Configuration has to be adapted accordingly to your own MongoDB.
 In particular, the CNX_String must be replaced as defined in the script.
 
-The analysis requires the user to have Jupyter Notebook installed on his / her computer. Another option is to open the .ipynb file on Google Colab, where you can insert all the data and then refer to the storage-folder, which is the recommended approach since the autohors created the report with the use of Google Colab.
+The analysis requires the user to have Jupyter Notebook installed on his / her computer. Another option is to open the .ipynb file on Google Colab.
